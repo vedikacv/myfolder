@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>E-Learn | Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Quiz Time!</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="topics.html">Topics</a>
+      <a href="quiz.html">Quiz</a>
+      <a href="login.html">Login</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Test Your Knowledge</h2>
+      <p>Coming soon: interactive quizzes for each topic!</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 E-Learn by Vedika</p>
+  </footer>
+</body>
+</html>
